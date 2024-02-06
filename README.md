@@ -1,4 +1,4 @@
-# Understanding React Hooks
+# Understanding React Hooks in easy way
 
 Hooks in React are a powerful feature that enables functional components to manage state and other React features. They were introduced to simplify the management and reusability of stateful logic in functional components.
 
